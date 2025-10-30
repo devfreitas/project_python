@@ -43,3 +43,12 @@ pip install oracledb
 ```bash
 pip install openpyxl
 ```
+
+# Versões
+Este repositório contém diversas versões do sistema. O arquivo principal e mais recente, que implementa todas as funcionalidades descritas, é:
+
+**Versão mais recente (recomendada)**
+
+[Versão 6](https://github.com/devfreitas/project_python/blob/main/v6.py)
+
+> **Dica:** Para acessar outras versões, explore o diretório raiz do repositório.
